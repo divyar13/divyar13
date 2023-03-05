@@ -1,8 +1,3 @@
-<!--
-**divyar13/divyar13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <!-- [![MasterHead](https://www.linkpicture.com/q/nfjdbfj.jpg)](https://divya.io) -->
 
 
@@ -17,15 +12,15 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/divyarahangda10" target="blank"><img src="https://img.shields.io/twitter/follow/divyarahangda10?logo=twitter&style=for-the-badge" alt="divyarahangda10" /></a> </p>
 
-- 🔭 I’m currently working on *General Health Prediction*
+- 🔭 I’m currently working on General Health Prediction
 
-- 🌱 I’m currently learning *Data structure & Algorithm*
+- 🌱 I’m currently learning Data structure & Algorithm
 
-- 💬 Ask me about *Anything*
+- 💬 Ask me about Anything
 
-- 📫 How to reach me *rahangdaledivya78@gmail.com*
+- 📫 How to reach me rahangdaledivya78@gmail.com
 
-- ⚡ Fun fact *I am too curious.*
+- ⚡ Fun fact I am too curious.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,4 +39,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyar13&show_icons=true&locale=en" alt="divyar13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyar13&" alt="divyar13" /></p>
--->
